@@ -13,8 +13,9 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=MuzzammilAfzal&icon=0&color=0" />
+  <img src="https://komarev.com/ghpvc/?username=MuzzammilAfzal&color=green" />
 </p>
 
 <p align="center">
