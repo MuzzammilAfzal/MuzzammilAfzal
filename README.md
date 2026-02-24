@@ -21,7 +21,7 @@
 
 
 <p align="center">
-  <img src="/mario.gif" width="700"/>
+  <img src="/mario.gif" width="900"/>
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
